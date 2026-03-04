@@ -1,0 +1,84 @@
+# =========================
+# Unity generated folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# Recordings / captures
+/[Rr]ecordings/
+
+# Addressables generated data
+Assets/AddressableAssetsData/*/*.bin*
+
+# =========================
+# Auto-generated project files
+# =========================
+ExportedObj/
+.consulo/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Rider
+*.DotSettings.user
+
+# Visual Studio cache/options directory
+.vs/
+
+# =========================
+# Unity meta generated files
+# =========================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =========================
+# Unity3D generated file on crash reports
+# =========================
+sysinfo.txt
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
